@@ -9,6 +9,8 @@ However, in my eighth semester, I took a class that completely changed my perspe
 
 For this reason, I have decided that it would be amazing if anyone could create great games and bring their ideas to life without having to spend years on development. I don’t want programmers to disappear; I want game development to become accessible to everyone.
 
+
+
 ![image](https://github.com/user-attachments/assets/f022b5bf-f395-47c3-a4c1-26f071987caa)
 
 
