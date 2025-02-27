@@ -13,7 +13,16 @@ For this reason, I have decided that it would be amazing if anyone could create 
 
 ![image](https://github.com/user-attachments/assets/f022b5bf-f395-47c3-a4c1-26f071987caa)
 
+## The Name?
+The name, while amusing to me, might be considered vulgar from other people's perspectives. However, it has a deeply personal origin for me as the creator of this repository.
 
+During my seventh semester in Business Administration, I had to develop a project based on the IKIGAI methodology. In other words, I needed to come up with an idea that I loved, was good at, was needed by others, and could earn me money. As part of this exercise, I thought of creating a video game—or at least starting its development.
+
+However, as you may have read before, my programming skills are practically nonexistent. Because of this, I decided to team up with three friends from high school who are studying fields related to video game development, such as Graphic Design and Programming. To this day, the game is still in the conceptualization phase, and we continue refining the story and gameplay mechanics. I hope that one day we’ll be able to release it.
+
+As we worked on the idea, we realized that once we published the game, we would need a name for the developer studio. That’s when we came up with the idea of naming it after our Discord chat: "Astrodildos". This name is simply a play on words inspired by the first multiplayer game we played together: "Astro Droids."
+
+With this background in mind, I chose this name for the repository because my goal here is to bring people together around a shared passion: video games. Just as the Astrodildos group helped strengthen our friendship, I want this space to connect others with the same passion.
 
 
 
